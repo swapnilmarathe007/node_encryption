@@ -1,0 +1,3 @@
+fileName,fileHash,encryptedFileHash,fileSize,fileLocation
+input.txt,68003b7ad7a4afac848c721791e88cd524a2e7d3f8399bdbc203aaf1ad261268,5fadc970bd130532585c0ec4ab905b3b9f36a31a0b90dbf7764bfa23eedb877d,68,/home/swapnilm/swapnil/node-encryption/lib/input.txt
+input.txt,68003b7ad7a4afac848c721791e88cd524a2e7d3f8399bdbc203aaf1ad261268,016d971513d97b9d5e86767077639bc3f1479f7e7db32cf045cbb50d737d951d,68,/home/swapnilm/swapnil/node-encryption/lib/input.txt
