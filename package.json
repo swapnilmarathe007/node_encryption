@@ -1,0 +1,32 @@
+{
+  "name": "encryption",
+  "version": "1.0.0",
+  "description": "Compress/decompress encrypt/decrypt files using node.",
+  "main": "aes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csv": "^3.1.0",
+    "csv-write-stream": "^2.0.0",
+    "mkdirp": "^0.5.1",
+    "save": "^2.3.2",
+    "split-file": "^2.1.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilmarathe007/node_encryption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilmarathe007/node_encryption/issues"
+  },
+  "homepage": "https://github.com/swapnilmarathe007/node_encryption#readme"
+}
